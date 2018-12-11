@@ -61,7 +61,7 @@ void UUCalendar::RemoveEntriesBetweenDates(std::string startDate, std::string en
 }
 
 int UUCalendar::GetCalenderEntryCount() {
-	//Remove all entries between two dates
+	//Return the number of entries in the calendar
 
 	//TODO - Add your implementation
 }
